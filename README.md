@@ -1,0 +1,6 @@
+# 全返模式积分返模式二合一源码
+
+<br>充值后台审核，example.com<br>测试账号17333333333密码17333333333<br>后台adminadmin123<br>example.com，例如购买一份产品1200元获1200返利积分。注：后台价格与积分可自定义，属于消费全返模式递减返现奖励<br>example.com（不递减）属于理财板块，70%提现、20%基金、10%手续费。。后台理财产品、奖励、天数可自定义。注：可以手动设置提现时间，例如周末不提现。<br>example.com，代：奖励80元现金第二代：奖励40元现金，example.com。后台奖励与百分比可自定义。注：分销后台可以自定义开启几代，这里的积分是返在消费返利里<br>example.com/example.com。后台奖励与百分比可自定义<br>example.com，需要提供身份证号码不需要上传身份证。修改身份证信息需要接收短信验证码<br>example.com，前台扫码充值时，随机生成一个订单号，填写到转账备注，后台审核通过自动到账。（可以选择三种充值方法，1、微信2、支付宝3、银行卡。需上传对应的二维码）注：可生成充值订单号有，有利于查看。<br>（<br>安装说明：<br>1、上传到网站根目录<br>2、example.com<br>3、修改数据库链接文件/application/example.com<br>4、后台地址http://您域名/example.com<br>帐号admin密码admin123<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/vIMeb" style="color: red;">https://mega-file.org/vIMeb</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
